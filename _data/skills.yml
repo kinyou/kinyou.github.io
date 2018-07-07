@@ -1,10 +1,10 @@
 - name: Software Engineer Keywords
   keywords:
+      - PHP
+      - Laravel
+      - Linux
+      - Vim
       - Java
-      - C++
-      - Python
-      - Design Patterns
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
+      - Ruby
+      - Javascript
+      - Git
