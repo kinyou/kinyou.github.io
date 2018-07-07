@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 星渊王的github之家
-keywords: 星渊王, xingyuanwang, xingmaogou
+description: kinyou的github之家
+keywords: kinyou, xingyuanwang, xingmaogou
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是星渊王。
+我是kinyou。
 
 坚持就是胜利。
 
