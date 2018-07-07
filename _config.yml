@@ -4,24 +4,24 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 九九叔
-subtitle: 九九叔的github之家
-description: 九九叔的github之家
-keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
+title: 星猫狗
+subtitle: 星猫狗的github之家
+description: 星猫狗的github之家
+keywords: 星猫狗, kinyou, xingmaogou
 favicon: /favicon.ico
-timezone: Asia/Shenzhen
+timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: JiuJiuShu
-organization: OPPO, Inc.
-organization_url: http://www.oppo.com
-github_username: wenfengtou
-location: Shenzhen, China
-email: qianmayi@gmail.com
+author: xingmaogou
+organization: Novastar, Inc.
+organization_url: http://www.novastar-led.cn/
+github_username: kinyou
+location: Xi'an, China
+email: kinyou_xy@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: wenfengtou/mzlogin.github.io
+repository: kinyou/kinyou.github.io
 
 # ---------------- #
 #      Comments    #
